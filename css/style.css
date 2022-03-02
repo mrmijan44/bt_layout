@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: mijan;
+}
+
+@font-face {
+	font-family: mijan;
+	src: url(../fonts/mijan.ttf);
+}
+@font-face {
+	font-family: rahman;
+	src: url(../fonts/rahman.ttf);
+}
+@font-face {
+	font-family: joy;
+	src: url(../fonts/joy.ttf);
+}
+
+.box {
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: forestgreen;
+}

@@ -1,0 +1,1 @@
+alert("resize your browser\nfor better experience!");
